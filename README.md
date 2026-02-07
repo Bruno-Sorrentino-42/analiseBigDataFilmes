@@ -16,5 +16,6 @@ Este projeto foi desenvolvido como parte de um estudo de Data Analysis e Big Dat
     ◦ Distribuição de avaliações médias por filme e por ano.
     ◦ Análise de popularidade e visibilidade de títulos.
 4. Proposta de Soluções: Sugestão de implementação de modelos híbridos (filtragem colaborativa e baseada em conteúdo), uso de Deep Learning e análise de sentimentos em avaliações textuais.
+
 📊 Resultados e Conclusões
 O projeto permitiu identificar que filmes mais antigos tendem a ter avaliações ligeiramente superiores e que existe uma alta concentração de atenção em títulos populares, deixando filmes menos conhecidos com baixa visibilidade. As recomendações finais focam na personalização dinâmica e na segmentação de usuários (clustering) para otimizar a experiência do espectador.
