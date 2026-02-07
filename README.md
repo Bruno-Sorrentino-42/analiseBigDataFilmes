@@ -1,3 +1,5 @@
+🎞️ Explicação em vídeo: https://youtu.be/edIWH0r8lew
+
 Big Data Analytics - Análise de Classificação de Filmes
 Este projeto foi desenvolvido como parte de um estudo de Data Analysis e Big Data focado na plataforma de streaming fictícia "Start-Flix". O objetivo principal é analisar o vasto dataset MovieLens para entender o comportamento dos usuários e propor melhorias no sistema de recomendação da plataforma, visando aumentar o engajamento e a personalização.
 
