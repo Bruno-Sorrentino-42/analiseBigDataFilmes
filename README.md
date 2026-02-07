@@ -16,7 +16,7 @@ Este projeto foi desenvolvido como parte de um estudo de Data Analysis e Big Dat
 
 • Bibliotecas: Pandas (manipulação e limpeza), NumPy e Matplotlib/Seaborn (visualização de dados).
 
-• Ambiente de Desenvolvimento: Google Colab.
+• Ambiente de Desenvolvimento: Google Colab (https://colab.research.google.com/drive/1ZDK6PeluFLnqE1jd-Jwnct9IcfKAiVMc?usp=sharing)
 
 
 🚀 Etapas do Desenvolvimento
