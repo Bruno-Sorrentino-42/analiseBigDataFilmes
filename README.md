@@ -1,5 +1,7 @@
 🎞️ Explicação em vídeo: https://youtu.be/edIWH0r8lew
 
+<img src="https://github.com/user-attachments/assets/2de14b44-f9b6-4f88-a366-cd0516b2cfbd" width="50%">
+
 Big Data Analytics - Análise de Classificação de Filmes
 Este projeto foi desenvolvido como parte de um estudo de Data Analysis e Big Data focado na plataforma de streaming fictícia "Start-Flix". O objetivo principal é analisar o vasto dataset MovieLens para entender o comportamento dos usuários e propor melhorias no sistema de recomendação da plataforma, visando aumentar o engajamento e a personalização.
 
@@ -32,3 +34,6 @@ Este projeto foi desenvolvido como parte de um estudo de Data Analysis e Big Dat
 
 📊 Resultados e Conclusões
 O projeto permitiu identificar que filmes mais antigos tendem a ter avaliações ligeiramente superiores e que existe uma alta concentração de atenção em títulos populares, deixando filmes menos conhecidos com baixa visibilidade. As recomendações finais focam na personalização dinâmica e na segmentação de usuários (clustering) para otimizar a experiência do espectador.
+
+<img width="2752" height="1536" alt="Infográfico" src="https://github.com/user-attachments/assets/9a1adfdd-d872-4a38-9590-2bf4ad44d287" />
+
