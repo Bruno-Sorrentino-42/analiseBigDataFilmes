@@ -1,13 +1,24 @@
 Big Data Analytics - Análise de Classificação de Filmes
 Este projeto foi desenvolvido como parte de um estudo de Data Analysis e Big Data focado na plataforma de streaming fictícia "Start-Flix". O objetivo principal é analisar o vasto dataset MovieLens para entender o comportamento dos usuários e propor melhorias no sistema de recomendação da plataforma, visando aumentar o engajamento e a personalização.
+
 🎯 Objetivos do Projeto
+
 • Análise de Dados: Explorar milhões de avaliações de filmes para identificar tendências de mercado e preferências de gênero.
+
 • Insights Estratégicos: Compreender as causas do baixo engajamento dos usuários e propor soluções baseadas em dados.
+
 • Sistemas de Recomendação: Sugerir modelos avançados para tornar as recomendações mais precisas e relevantes.
+
+
 🛠️ Tecnologias e Ferramentas
+
 • Linguagem: Python.
+
 • Bibliotecas: Pandas (manipulação e limpeza), NumPy e Matplotlib/Seaborn (visualização de dados).
+
 • Ambiente de Desenvolvimento: Google Colab.
+
+
 🚀 Etapas do Desenvolvimento
 1. Processamento e Limpeza: Tratamento de valores nulos, formatação de timestamps e categorização de gêneros para otimizar o processamento de grandes volumes de dados (+20 milhões de linhas).
 2. Análise Exploratória (EDA): Identificação de padrões de lançamentos cinematográficos ao longo dos anos e análise do volume de avaliações recebidas.
